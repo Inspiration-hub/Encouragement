@@ -1,0 +1,21 @@
+{
+  "name": "Daily Hope Faith App",
+  "short_name": "Daily Hope",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#2c3e50",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/2c3e50/ffffff?text=Cross",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/2c3e50/ffffff?text=Cross",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
